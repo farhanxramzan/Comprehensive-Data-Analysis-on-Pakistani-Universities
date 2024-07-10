@@ -19,3 +19,4 @@ This analysis provides a comprehensive overview of universities in Pakistan, lev
 ##### Type of Universities: There are 146 public universities in Pakistan out of overall 227.
 and much more..
 
+![pakunianalysisd](https://github.com/farhanxramzan/Comprehensive-Data-Analysis-on-Pakistani-Universities/assets/170033603/cb820cc2-2264-48af-bebe-115e411409cd)
